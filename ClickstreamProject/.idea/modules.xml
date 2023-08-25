@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/clickstream_data.iml" filepath="$PROJECT_DIR$/.idea/modules/clickstream_data.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/clickstream_data-build.iml" filepath="$PROJECT_DIR$/.idea/modules/clickstream_data-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/module1/.idea/modules/module1-build.iml" filepath="$PROJECT_DIR$/module1/.idea/modules/module1-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/modules/target.iml" filepath="$PROJECT_DIR$/../.idea/modules/target.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/modules/target-build.iml" filepath="$PROJECT_DIR$/../.idea/modules/target-build.iml" />
     </modules>
   </component>
 </project>
